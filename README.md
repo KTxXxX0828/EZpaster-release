@@ -14,4 +14,6 @@ EZpaster - my first text spammer (using clipboard)
 <br>
 6.Relaunch app, and enjoy
 
-### have issue? DM me (sigma_ptr35)
+*have issue? DM me (sigma_ptr35)*
+
+<h1>I will no longer support this application.</h1>
